@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChatBot", "ChatBot\ChatBot.csproj", "{C24112A9-889E-422A-B810-E7804F08164A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositories", "Repositories\Repositories.csproj", "{C2BAD92E-2929-4E1E-BC74-94D31F09C3CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C24112A9-889E-422A-B810-E7804F08164A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C24112A9-889E-422A-B810-E7804F08164A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C24112A9-889E-422A-B810-E7804F08164A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C24112A9-889E-422A-B810-E7804F08164A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2BAD92E-2929-4E1E-BC74-94D31F09C3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BAD92E-2929-4E1E-BC74-94D31F09C3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BAD92E-2929-4E1E-BC74-94D31F09C3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BAD92E-2929-4E1E-BC74-94D31F09C3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65FFFE17-02DA-499C-998E-987ED1B8F0F8}
+	EndGlobalSection
+EndGlobal
